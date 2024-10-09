@@ -1,1 +1,3 @@
 # swisscom
+_x_ Swisscom Zusammenfassung.
+Ich habe bei der Einführung sachen über Silicon Valley gelent. Die Stadt geht sehr viel über It und Ai. in dieser Stadt gibt es sehr viele grosse Firmen die dort gesartet haben wie Z.b Apple. Die meisten Etwickler gingen zur Stanford University  viele machten es durch aber es gab ein paaR entwickler die es abbrachen. Ich bin zum Network Workshop gegangen, wir haben eine einführung über switches und routers gelernt und was passiert wenn so eine Antene kapput geht. Danach haben wird auf einer Website eine URL link erstellt und mit dem einen Qr-code gemacht den wir dann sannen konnten, wir konnten dann sehen wer es  gescannt hat welches Handy, um welcher Zeit,und die Ip-Adresse.
